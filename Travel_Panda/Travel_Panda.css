@@ -1,0 +1,27 @@
+/*
+* Alex Willis 
+* November 2, 2018 
+* Panda Travel 
+*/
+
+/* The universal selector */
+
+* { 
+
+} 
+
+/* Body attributes here */
+
+body {
+    width: 70%; 
+    margin: auto;
+    background-color: aliceblue; 
+}
+
+#dark_of_the_moon {width: 400px; height: 200px; }
+
+#staugustine_beach {float: right; }
+
+#review {clear: right; }
+
+#lighthouse {width: 300px; height: 400px; }
